@@ -5,5 +5,5 @@
 
 
 class JogodeAventura:
-    de __init__(self):
+    def __init__(self):
         self.pergunta1 = 'Você gostaria de entrar'

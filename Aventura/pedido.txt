@@ -1,0 +1,5 @@
+criar um game baseado no histórias fantásticas, 
+
+- inicialmente andando pelo mapa (fazendo as escolhas possíveis em cada texto)
+- rolando dados, armazenando itens, pvs, dano
+- audio da leitura dos caminhos e pré história
